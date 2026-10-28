@@ -8,7 +8,7 @@
 
 ### 💻 About Me
 <p align="center">
-  - 🎓 I'm a 2nd-year Computer Engineering student at Marmara University.<br>
+  - 🎓 I'm a 3th-year Computer Engineering student at Marmara University.<br>
   - 🤖 Passionate about coding, problem solving, and exploring new technologies.<br>
   - 🚀 Currently learning Python and Java, while working on small personal projects.<br>
 </p>
