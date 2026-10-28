@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0ea5e9&height=120&section=header" alt="Blue header wave" width="100%" />
 </p>
@@ -45,7 +46,11 @@
 
 <table>
   <thead>
-    <tr><th>Project</th><th>Overview</th><th>Technologies</th></tr>
+    <tr>
+      <th>Project</th>
+      <th>Overview</th>
+      <th>Technologies</th>
+    </tr>
   </thead>
   <tbody>
     <tr>
@@ -65,8 +70,13 @@
     </tr>
     <tr>
       <td><a href="https://github.com/emirpeker/Veri-Analizi-Okulu"><strong>Data Analysis & ML Exercises</strong></a></td>
-      <td>Study notebooks covering classification, preprocessing, PCA, and LDA.</td>
+      <td>Study notebooks covering classification, preprocessing, PCA, LDA, neural networks, and clustering.</td>
       <td>Python, scikit-learn, Jupyter</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/emirpeker/Emu8086-Sayi-Avi"><strong>8086 Number Hunt</strong></a></td>
+      <td>Interactive number-collection game developed in 8086 Assembly, featuring keyboard controls, scoring, and multiple rounds.</td>
+      <td>8086 Assembly, BIOS Interrupts, emu8086</td>
     </tr>
   </tbody>
 </table>
@@ -74,7 +84,8 @@
 <h2>Contact</h2>
 
 <p>
-  <a href="https://www.linkedin.com/in/emir-peker-19061726b/">LinkedIn</a> · <a href="mailto:emir20peker@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/emir-peker-19061726b/">LinkedIn</a> ·
+  <a href="mailto:emir20peker@gmail.com">Email</a>
 </p>
 
 <p align="center">
