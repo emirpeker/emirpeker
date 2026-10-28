@@ -64,11 +64,6 @@
       <td>Python, Streamlit, scikit-learn</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/emirpeker/Task"><strong>ASP.NET Core Product API</strong></a></td>
-      <td>CRUD REST API featuring product filters and model validation.</td>
-      <td>C#, ASP.NET Core</td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/emirpeker/Veri-Analizi-Okulu"><strong>Data Analysis & ML Exercises</strong></a></td>
       <td>Study notebooks covering classification, preprocessing, PCA, and LDA.</td>
       <td>Python, scikit-learn, Jupyter</td>
