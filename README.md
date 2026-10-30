@@ -54,7 +54,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><strong>CartWise</strong></td>
+      <td><a href="https://github.com/talhayilldizz/hackathon-26"><strong>CartWise</strong></td>
       <td>Team-developed shopping assistant from BTK Hackathon 2026, featuring product-review sentiment analysis and Gemini API integration.</td>
       <td>Python, Flask, PyTorch, Docker</td>
     </tr>
